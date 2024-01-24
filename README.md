@@ -1,37 +1,38 @@
 <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	Welcome to my GitHub Profile
 </h1>
 
-### 👦Sobre mim :seedling: : 
-> - 👋 Me chamo **Guilherme Almeida**, tenho 21 anos.
-> - 📌  De Itapecerica da Serra, São Paulo, Brazil.
-> - 🎓 Formado em Ciencia da Computação na Universidade Nove de Julho. 
-> - 💬 Pergunte-me sobre **Python**, posso te ajudar!
-> - 🔭 Curiosidades: Musico, Skatista.
+### About me: 
+> - My name is **Guilherme Almeida** and i'm 21.
+> - I Live in Sao Paulo, Brazil.
+> - I've Graduated in Computer Science in 2023, on the University Ninth of July. 
+> - Ask me about anything, let's grow together.
+> - I speak **Portuguese** and **English** but i'm also learning **French**.
+> - Some of my hobbies are **Music Producer**, **Photography** and **Skating**.
 <hr>
 
-### ⚡ Skills:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/-pandas-150458?&logo=pandas&logoColor=FFFFFF) ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![C sharp](https://img.shields.io/badge/-CSharp-239120?&logo=CSharp&logoColor=FFFFFF)
+### Skills:
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 📦 Databases:
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
+### Databases:
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Tools:
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?&logo=Visual%20Studio&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+### Tools:
+- ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 
-### 🧩 Extras:
-- ![JSON](https://img.shields.io/badge/-JSON-181717?&logo=JSON&logoColor=FFFFFF) ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?&logo=Spotify&logoColor=FFFFFF) ![Discord](https://img.shields.io/badge/-Discord-5865F2?&logo=Discord&logoColor=FFFFFF) ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?&logo=LibreOffice&logoColor=FFFFFF) ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?&logo=GoogleChrome&logoColor=FFFFFF)  ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![Trello](https://img.shields.io/badge/-Trello-0052CC?&logo=Trello&logoColor=FFFFFF) 
+### Extras:
+- ![JSON](https://img.shields.io/badge/-JSON-181717?style=for-the-badge&logo=JSON&logoColor=FFFFFF) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)  ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=FFFFFF) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
  
-### :bulb: General statistics and Most used languages:
+### General statistics and Most used languages:
 <p float="left" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeidaDev&theme=cobalt&show_icons=true" height="149px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeidaDev&theme=dark&border_radius=0&show_icons=true" height="149px" />
   &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlmeidaDev&hide=scss,JavaScript,PowerShell,C++,Td,Tcl,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlmeidaDev&hide=JavaScript,CSS,HTML&layout=compact&theme=dark&border_radius=0" height="149px" />
 </p>
 
 <hr>
 
-## ✅ Entre em contato! ✉️
+## Contact Me At:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/guilhermealmeidadev/)
  [![Gmail Badge](https://img.shields.io/badge/-guilhermerocha124@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:guilhermerocha124@gmail.com)
