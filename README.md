@@ -23,14 +23,6 @@
 ### Extras:
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-181717?style=for-the-badge&logo=JSON&logoColor=FFFFFF) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=FFFFFF)
  
-### General statistics and Most used languages:
-<p float="left" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeidaDev&theme=dark&border_radius=0&show_icons=true" height="149px" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlmeidaDev&hide=JavaScript,CSS,HTML&layout=compact&theme=dark&border_radius=0" height="149px" />
-</p>
-
-<hr>
 
 ## Contact Me At:
 
